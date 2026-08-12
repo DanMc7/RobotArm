@@ -1,0 +1,5 @@
+[console_scripts]
+input1 = tester_py.InputTester:main
+publisher1 = tester_py.PublisherTester:main
+subscriber1 = tester_py.SubscriberTester:main
+
