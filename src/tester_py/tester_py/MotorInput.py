@@ -13,7 +13,7 @@ class MotorCommandPublisher(Node):
 
     def timer_callback(self):
         while rclpy.ok():
-            output = input("Enter steps (positive for clockwise): ")
+            output = int(input("Enter steps (positive for clockwise): "))
             msg = Int32()
             msg.data = output
             self.publisher_.publish(msg)
