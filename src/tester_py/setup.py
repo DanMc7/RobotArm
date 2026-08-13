@@ -27,6 +27,8 @@ setup(
         	'publisher1 = tester_py.PublisherTester:main',
         	'subscriber1 = tester_py.SubscriberTester:main',
             'input1 = tester_py.InputTester:main',
+            'motor_commands = tester_py.MotorInput:main',
+            'motor_driver = tester_py.MotorDriver:main',
         ],
     },
 )
