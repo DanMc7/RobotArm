@@ -1,0 +1,27 @@
+running egg_info
+writing ../../build/tester_py/tester_py.egg-info/PKG-INFO
+writing dependency_links to ../../build/tester_py/tester_py.egg-info/dependency_links.txt
+writing entry points to ../../build/tester_py/tester_py.egg-info/entry_points.txt
+writing requirements to ../../build/tester_py/tester_py.egg-info/requires.txt
+writing top-level names to ../../build/tester_py/tester_py.egg-info/top_level.txt
+reading manifest file '../../build/tester_py/tester_py.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/tester_py/tester_py.egg-info/SOURCES.txt'
+running build
+running build_py
+copying tester_py/MotorInput.py -> /home/danmc7/RobotArm/build/tester_py/build/lib/tester_py
+running install
+running install_lib
+copying /home/danmc7/RobotArm/build/tester_py/build/lib/tester_py/MotorInput.py -> /home/danmc7/RobotArm/install/tester_py/lib/python3.10/site-packages/tester_py
+byte-compiling /home/danmc7/RobotArm/install/tester_py/lib/python3.10/site-packages/tester_py/MotorInput.py to MotorInput.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/danmc7/RobotArm/install/tester_py/lib/python3.10/site-packages/tester_py-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/tester_py/tester_py.egg-info to /home/danmc7/RobotArm/install/tester_py/lib/python3.10/site-packages/tester_py-0.0.0-py3.10.egg-info
+running install_scripts
+Installing input1 script to /home/danmc7/RobotArm/install/tester_py/lib/tester_py
+Installing motor_commands script to /home/danmc7/RobotArm/install/tester_py/lib/tester_py
+Installing motor_driver script to /home/danmc7/RobotArm/install/tester_py/lib/tester_py
+Installing publisher1 script to /home/danmc7/RobotArm/install/tester_py/lib/tester_py
+Installing subscriber1 script to /home/danmc7/RobotArm/install/tester_py/lib/tester_py
+writing list of installed files to '/home/danmc7/RobotArm/build/tester_py/install.log'

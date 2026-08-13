@@ -2,12 +2,13 @@ import rclpy
 from rclpy.node import Node
 from std_msgs.msg import Int32
 import threading
+
 class MotorCommandPublisher(Node):
 
     def __init__(self):
         super().__init__('motor_command_publisher')
         self.publisher_ = self.create_publisher(Int32, 'stepper_cmd', 10)
-        self.input_thread = threading.Thread(target=self.input_loop, daemon=True)
+        self.input_thread = threading.Thread(target=self.timer_callback, daemon=True)
         self.input_thread.start()
 
     def timer_callback(self):
