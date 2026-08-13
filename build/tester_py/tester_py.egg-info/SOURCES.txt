@@ -14,6 +14,8 @@ test/test_copyright.py
 test/test_flake8.py
 test/test_pep257.py
 tester_py/InputTester.py
+tester_py/MotorDriver.py
+tester_py/MotorInput.py
 tester_py/PublisherTester.py
 tester_py/SubscriberTester.py
 tester_py/__init__.py
