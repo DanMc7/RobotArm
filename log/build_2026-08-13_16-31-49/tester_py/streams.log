@@ -1,0 +1,23 @@
+[0.585s] Invoking command in '/home/danmc7/RobotArm/build/tester_py': PYTHONPATH=/home/danmc7/RobotArm/build/tester_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/danmc7/RobotArm/install/tester_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/danmc7/RobotArm/build/tester_py/build --no-deps symlink_data --force
+[0.752s] running develop
+[0.847s] running egg_info
+[0.847s] writing tester_py.egg-info/PKG-INFO
+[0.847s] writing dependency_links to tester_py.egg-info/dependency_links.txt
+[0.847s] writing entry points to tester_py.egg-info/entry_points.txt
+[0.847s] writing requirements to tester_py.egg-info/requires.txt
+[0.848s] writing top-level names to tester_py.egg-info/top_level.txt
+[0.849s] reading manifest file 'tester_py.egg-info/SOURCES.txt'
+[0.849s] writing manifest file 'tester_py.egg-info/SOURCES.txt'
+[0.850s] running build_ext
+[0.850s] Creating /home/danmc7/RobotArm/install/tester_py/lib/python3.10/site-packages/tester-py.egg-link (link to .)
+[0.851s] Installing input1 script to /home/danmc7/RobotArm/install/tester_py/lib/tester_py
+[0.851s] Installing motor_commands script to /home/danmc7/RobotArm/install/tester_py/lib/tester_py
+[0.851s] Installing motor_driver script to /home/danmc7/RobotArm/install/tester_py/lib/tester_py
+[0.851s] Installing publisher1 script to /home/danmc7/RobotArm/install/tester_py/lib/tester_py
+[0.851s] Installing subscriber1 script to /home/danmc7/RobotArm/install/tester_py/lib/tester_py
+[0.851s] 
+[0.851s] Installed /home/danmc7/RobotArm/build/tester_py
+[0.851s] running symlink_data
+[0.852s] symbolically linking /home/danmc7/RobotArm/build/tester_py/resource/tester_py -> /home/danmc7/RobotArm/install/tester_py/share/ament_index/resource_index/packages
+[0.852s] symbolically linking /home/danmc7/RobotArm/build/tester_py/package.xml -> /home/danmc7/RobotArm/install/tester_py/share/tester_py
+[0.873s] Invoked command in '/home/danmc7/RobotArm/build/tester_py' returned '0': PYTHONPATH=/home/danmc7/RobotArm/build/tester_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/danmc7/RobotArm/install/tester_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/danmc7/RobotArm/build/tester_py/build --no-deps symlink_data --force

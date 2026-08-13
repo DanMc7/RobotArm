@@ -1,0 +1,21 @@
+running develop
+running egg_info
+writing tester_py.egg-info/PKG-INFO
+writing dependency_links to tester_py.egg-info/dependency_links.txt
+writing entry points to tester_py.egg-info/entry_points.txt
+writing requirements to tester_py.egg-info/requires.txt
+writing top-level names to tester_py.egg-info/top_level.txt
+reading manifest file 'tester_py.egg-info/SOURCES.txt'
+writing manifest file 'tester_py.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/danmc7/RobotArm/install/tester_py/lib/python3.10/site-packages/tester-py.egg-link (link to .)
+Installing input1 script to /home/danmc7/RobotArm/install/tester_py/lib/tester_py
+Installing motor_commands script to /home/danmc7/RobotArm/install/tester_py/lib/tester_py
+Installing motor_driver script to /home/danmc7/RobotArm/install/tester_py/lib/tester_py
+Installing publisher1 script to /home/danmc7/RobotArm/install/tester_py/lib/tester_py
+Installing subscriber1 script to /home/danmc7/RobotArm/install/tester_py/lib/tester_py
+
+Installed /home/danmc7/RobotArm/build/tester_py
+running symlink_data
+symbolically linking /home/danmc7/RobotArm/build/tester_py/resource/tester_py -> /home/danmc7/RobotArm/install/tester_py/share/ament_index/resource_index/packages
+symbolically linking /home/danmc7/RobotArm/build/tester_py/package.xml -> /home/danmc7/RobotArm/install/tester_py/share/tester_py

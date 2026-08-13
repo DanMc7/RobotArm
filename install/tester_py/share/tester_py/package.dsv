@@ -4,3 +4,6 @@ source;share/tester_py/hook/pythonpath.sh
 source;share/tester_py/hook/ament_prefix_path.ps1
 source;share/tester_py/hook/ament_prefix_path.dsv
 source;share/tester_py/hook/ament_prefix_path.sh
+source;../../build/tester_py/share/tester_py/hook/pythonpath_develop.ps1
+source;../../build/tester_py/share/tester_py/hook/pythonpath_develop.dsv
+source;../../build/tester_py/share/tester_py/hook/pythonpath_develop.sh
